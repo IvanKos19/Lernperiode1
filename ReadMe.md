@@ -1,6 +1,6 @@
 # Grobplanung
 **Ivan Kos**
-**Bis zu den** ***Herbstferien***
+**bis zu den** ***Herbstferien***
 ## Leitsatz 
 Ich will im Modul 431, 319 weiter arbeiten und Informatik als Fachbereich besser verstehen.
 ## Arbeitspaket für 29.08.2023
