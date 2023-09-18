@@ -15,7 +15,22 @@ Ich bin gut vorangekommen und konnte die meisten meiner Probkemen selber lösen.
 Weiter in C# vertiefen indem ich videos dazu schaue und ein neues Projekt anfange.
 
 ## Planung
-[] Vertiefen in C#
-[] Neues Projekt erstellen
+[x] Vertiefen in C#
+[x] Neues Projekt erstellen
 
+## Arbeitspaket für 12.09.2023
+Weiter in C# vertiefen indem ich videos dazu schaue und ein neues Projekt anfange.
+
+## Planung
+[x] Tutorials zu C# schauen
+[X] Am Projekt Weiterarbeiten
+[X] Am Modul 431 arbeiten
+
+## Arbeitspaket für 19.09.2023
+Weiter in C# vertiefen indem ich videos dazu schaue und ein neues Projekt anfange.
+
+## Planung
+[] Portfolio für Modul 319 anfangen
+[] Am Modul 319 arbeiten
+[] Am Modul 431 arbeiten
 
