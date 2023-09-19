@@ -19,7 +19,7 @@ Weiter in C# vertiefen indem ich videos dazu schaue und ein neues Projekt anfang
 [x] Neues Projekt erstellen
 
 ## Arbeitspaket für 12.09.2023
-Weiter in C# vertiefen indem ich videos dazu schaue und ein neues Projekt anfange.
+Vertiefung in C# fertigstellen und Modul 431 arbeiten.
 
 ## Planung
 [x] Tutorials zu C# schauen
@@ -27,10 +27,20 @@ Weiter in C# vertiefen indem ich videos dazu schaue und ein neues Projekt anfang
 [X] Am Modul 431 arbeiten
 
 ## Arbeitspaket für 19.09.2023
-Weiter in C# vertiefen indem ich videos dazu schaue und ein neues Projekt anfange.
+Module arbeiten damit ich mitkomme in den Inputs
 
 ## Planung
 [] Portfolio für Modul 319 anfangen
 [] Am Modul 319 arbeiten
-[] Am Modul 431 arbeiten
+[X] Am Modul 431 arbeiten
+
+Ich habe die ganze zeit am Modul 431 gearbeitet und kam nicht dazu am Modul 319 zu arbeiten. Ich bin super vorangekommen und war voll konzentriert am arbeiten. Nächste Woche will ich weiter im Modul 431 arbeiten da ich ein paar mal nicht wie gewünscht vorangekommen bin jetzt im rückstand deswegen. Was ich auf nächstes mal optimieren könnte ist kürzere Pausen mache, doch ich werde mir überlegen ob das eine gute Idee ist da Pausen auch ein wichtiger teil von Effektiven und Effizienten arbeiten sind.
+
+## Arbeitspaket für 26.09.2023
+Im Modul 431 die Expertenziele machen um so viel Punkte wie möglich aus dem Modul raus zu holen.
+
+## Planung
+[] Portfolio für Modul 319 anfangen
+[] Am Modul 319 arbeiten
+[] Modul 431 Expertenziele fetrigstellen
 
