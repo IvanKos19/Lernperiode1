@@ -40,7 +40,7 @@ Ich habe die ganze zeit am Modul 431 gearbeitet und kam nicht dazu am Modul 319 
 Im Modul 431 die Expertenziele machen um so viel Punkte wie möglich aus dem Modul raus zu holen.
 
 ## Planung
-- [] Portfolio für Modul 319 anfangen
-- [] Am Modul 319 arbeiten
-- [] Modul 431 Expertenziele fetrigstellen
+- [ ] Portfolio für Modul 319 anfangen
+- [ ] Am Modul 319 arbeiten
+- [ ] Modul 431 Expertenziele fetrigstellen
 
