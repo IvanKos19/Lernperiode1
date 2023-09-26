@@ -44,3 +44,6 @@ Im Modul 431 die Expertenziele machen um so viel Punkte wie möglich aus dem Mod
 - [ ] Am Modul 319 arbeiten
 - [ ] Modul 431 Expertenziele fetrigstellen
 
+## Reflektion
+In der ersten Lernperiode habe ich gemerkt das Programmieren nicht so meine stärke ist, daher habe ich in dieser Zeit mehr am Modul 431 gearbeitet. Aber ich denke dies führte mehr dazu das ich schlecht im Programmieren bin. Um mich im Programmieren zu verbessern muss ich wieder zurück zu den Basics und die versuchen richtig zu verstehen. Aber ich denke es ist nicht völlig mein Problem das unser Modul 319 Lehrer manchmal Sachen nicht sehr verständlich erklärt und zu schnell mit den neuen Begriffen voran geht. Für die nächste Lernperiode nehme ich mir vor zu versuchen mich nochmal in C# neu zu vertiefen und versuchen es besser zu verstehen, doch dies wird sehr wahrscheinlich schwierig da ich Programmieren nicht als Freizeit Betätigung sehe sondern mehr als Schularbeit was dazu führt das ich keine Motivation habe Zuhause an dem noch zu arbeiten. (141 Wörter)
+
