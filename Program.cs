@@ -1,45 +1,19 @@
-﻿namespace Notenrechner
+using System;
+
+namespace Notenrechner
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-
             Console.WriteLine("Willkommen beim Notenrechner");
-            double BenutzerNote = Noteneingabe();
-
-
-
-
-
-        }
-        static double Noteneingabe()
-        {
-            double Note = 0;
-            Boolean isCorrectInput = false;
-            while (!isCorrectInput)
+            double note;
+            do
             {
-                try
-                {
-                    Console.WriteLine("Geben sie ihre Note ein: ");
-                    Note = Convert.ToDouble(Console.ReadLine());
-
-                    if (Note < 1 || Note > 6)
-                    {
-                        throw new Exception();
-                    } else
-                    {
-                        isCorrectInput = true;
-                    }
-                }
-                catch
-                {
-                    Console.WriteLine("Ungültige Eingabe");
-                }
-            }
-            return Note;
-
+                Console.WriteLine("Geben Sie Ihre Note ein (zwischen 1 und 6): ");
+            } 
+            while (!double.TryParse(Console.ReadLine(), out note) || note < 1 || note > 6);
+            Console.WriteLine($"Eingegebene Note: {note}");
         }
     }
 }
-
